@@ -20,7 +20,7 @@ Soporte
 
 Cada rol controla el acceso a módulos específicos del ERP.
 ---
-
+d
 ## Control de acceso
 Los usuarios solo pueden acceder a los módulos asociados a su rol.
 Esto permite aplicar el principio de mínimo privilegio y mejorar la seguridad
